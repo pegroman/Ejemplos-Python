@@ -1,0 +1,8 @@
+La orientación a objetos es una técnica para el modelado de sistemas. V
+Los atributos son las acciones que un objeto puede realizar. F (son las características)
+El estado de un objeto es propio de cada objeto. V
+Un objeto puede tener más de un atributo. V
+Un objeto puede interactuar con otro objeto. V
+Un objeto tiene que tener igual cantidad de atributos que de métodos. F
+El comportamiento de un objeto está definido por los atributos. F (por los métodos) 
+Los objetos se comunican entre sí a través de mensajes. V
